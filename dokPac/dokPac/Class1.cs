@@ -10,6 +10,6 @@ namespace dokPac
     {
         void a() { }
         int b = 5;
-
+        int c=2;
     }
 }
